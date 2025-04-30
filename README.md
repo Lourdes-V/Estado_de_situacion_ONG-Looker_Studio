@@ -3,7 +3,7 @@
 Este análisis fue realizado en el marco de un proyecto final, en el cual nos fueron facilitados determinados datos de una ONG, en este caso Potenciar Solidario, para poder evidenciar insights. 
 El dashboard está diseñado para brindar una visión general y detallada de las operaciones financieras y las relaciones estratégicas de la Fundación.
 
-# Visión General (Ingresos y Egresos):
+# Visión General (Ingresos y Egresos): 
 En la primera solapa, se presentan los ingresos y egresos de la Fundación con un enfoque global. Esto permite registrar y visualizar de manera instantánea:
 - Comparaciones de ingresos y egresos entre el año actual y el anterior.
 - La evolución financiera a lo largo de los años.
